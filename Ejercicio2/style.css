@@ -1,0 +1,56 @@
+/*
+@autor Vanessa Ortiz
+       Denis Sevilla
+       Javier Ventura
+@version 1.0
+@fecha 08/08/2020
+*/
+#principal{
+    width: 100%;
+    padding: 20px;
+}
+h4, h5{
+    text-align: center;
+}
+.ce{
+    text-align: center;
+}
+.botones{
+    margin-left: 45%;
+}
+#container{
+    width: 600px!important;
+    height: 400px!important;
+}
+#container2{
+    width: 600px!important;
+    height: 400px!important;
+}
+.btn-inf{
+    margin-left: 37%;
+}
+#histo{
+    padding-right: 600px!important;
+    padding-top: 50px!important;
+}
+.mc{
+    width: 1100px!important;
+}
+.modal-header{
+    background-color: rgb(189, 225, 250)!important;
+  }
+li{
+    margin-left: 50px!important;
+}
+.form-control:disabled, .form-control[readonly] {
+    background-color: white!important;
+    width: 45%!important;
+    margin: auto!important;
+}
+.tit{
+    background-repeat: no-repeat;
+    background-image: url("grafico.png")!important;
+    padding-left: 3%;
+    margin: auto!important;
+    margin-left: 15%!important;
+}
